@@ -1,5 +1,3 @@
-require 'pry'
-
 class Song
   attr_accessor :name, :artist_name, :create, :new_by_name, :create_by_name, :artist
   attr_reader :all
